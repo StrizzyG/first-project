@@ -1,4 +1,4 @@
-# First Project
+# GettingStarted
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Made by](https://img.shields.io/badge/Made%20by-StrizzyG-blue)
