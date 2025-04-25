@@ -2,6 +2,9 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Made by](https://img.shields.io/badge/Made%20by-StrizzyG-blue)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 Welcome to my first project! 🚀
 
@@ -15,6 +18,7 @@ This project is built using:
 It's a simple setup, but a great start for bigger things!
 
 ## Project Structure
+
 ## Goals
 
 - Practice basic web development
