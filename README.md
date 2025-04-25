@@ -1,5 +1,8 @@
 # First Project
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Made by](https://img.shields.io/badge/Made%20by-StrizzyG-blue)
+
 Welcome to my first project! 🚀
 
 ## About
@@ -12,8 +15,6 @@ This project is built using:
 It's a simple setup, but a great start for bigger things!
 
 ## Project Structure
-
-
 ## Goals
 
 - Practice basic web development
@@ -23,5 +24,4 @@ It's a simple setup, but a great start for bigger things!
 ---
 
 > Made with passion by Mathias Soendergaard (StrizzyG) 🎮💻
-
 
